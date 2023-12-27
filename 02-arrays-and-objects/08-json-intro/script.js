@@ -14,7 +14,7 @@ const obj = JSON.parse(str);
 
 console.log(obj.id);
 
-// JSON & arrays ****
+// JSON & arrays 
 const posts = [
   {
     id: 1,
