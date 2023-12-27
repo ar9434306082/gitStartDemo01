@@ -9,7 +9,7 @@ const str = JSON.stringify(post);
 
 console.log(str.id);
 
-// Parse JSON
+// Parse JSON ********
 const obj = JSON.parse(str);
 
 console.log(obj.id);
